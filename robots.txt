@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /dziekuje.html
+
+Sitemap: https://kup-recenzje.com/sitemap.xml
